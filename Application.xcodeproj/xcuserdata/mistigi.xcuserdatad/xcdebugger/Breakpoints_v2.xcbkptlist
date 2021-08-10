@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0DEA25C8-37EF-455D-B752-280D8E973C1D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA94E78A-2623-43C8-A2E0-0FB5328BD6A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Application/CustomElements/RoundView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "RoundImageView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FA94E78A-2623-43C8-A2E0-0FB5328BD6A1 - f5f9af8c7e0cd6d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Application.RoundImageView.__allocating_init(image: Swift.Optional&lt;__C.UIImage&gt;) -&gt; Application.RoundImageView"
+                  moduleName = "Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mistigi/Documents/GeekBrains/Application/CustomElements/RoundView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "FA94E78A-2623-43C8-A2E0-0FB5328BD6A1 - 7c26831d4388cf6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Application.RoundImageView.init(image: Swift.Optional&lt;__C.UIImage&gt;) -&gt; Application.RoundImageView"
+                  moduleName = "Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mistigi/Documents/GeekBrains/Application/CustomElements/RoundView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "FA94E78A-2623-43C8-A2E0-0FB5328BD6A1 - 3ced524af9d29ad1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Application.RoundImageView.__allocating_init(image: Swift.Optional&lt;__C.UIImage&gt;, highlightedImage: Swift.Optional&lt;__C.UIImage&gt;) -&gt; Application.RoundImageView"
+                  moduleName = "Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mistigi/Documents/GeekBrains/Application/CustomElements/RoundView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "FA94E78A-2623-43C8-A2E0-0FB5328BD6A1 - 49e199ad9de495fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Application.RoundImageView.init(image: Swift.Optional&lt;__C.UIImage&gt;, highlightedImage: Swift.Optional&lt;__C.UIImage&gt;) -&gt; Application.RoundImageView"
+                  moduleName = "Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mistigi/Documents/GeekBrains/Application/CustomElements/RoundView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "FA94E78A-2623-43C8-A2E0-0FB5328BD6A1 - 256948eeeae740d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Application.RoundImageView.__allocating_init(frame: __C.CGRect) -&gt; Application.RoundImageView"
+                  moduleName = "Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mistigi/Documents/GeekBrains/Application/CustomElements/RoundView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "FA94E78A-2623-43C8-A2E0-0FB5328BD6A1 - c702938fb46b2d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Application.RoundImageView.init(frame: __C.CGRect) -&gt; Application.RoundImageView"
+                  moduleName = "Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mistigi/Documents/GeekBrains/Application/CustomElements/RoundView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "FA94E78A-2623-43C8-A2E0-0FB5328BD6A1 - 2f3fea2ecbd9f3c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Application.RoundImageView.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Application.RoundImageView&gt;"
+                  moduleName = "Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mistigi/Documents/GeekBrains/Application/CustomElements/RoundView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "FA94E78A-2623-43C8-A2E0-0FB5328BD6A1 - 83f7715c056f2332"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Application.RoundImageView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Application.RoundImageView&gt;"
+                  moduleName = "Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mistigi/Documents/GeekBrains/Application/CustomElements/RoundView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "FA94E78A-2623-43C8-A2E0-0FB5328BD6A1 - 816bf4a9964db3ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Application.RoundImageView.__deallocating_deinit"
+                  moduleName = "Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mistigi/Documents/GeekBrains/Application/CustomElements/RoundView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
